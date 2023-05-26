@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Konum Kaydet</string>
+    <string name="title_activity_maps">map</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
